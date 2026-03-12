@@ -1,0 +1,14 @@
+/home/thanh/DEV/DotNet/Basic/OOP/bin/Debug/net8.0/OOP
+/home/thanh/DEV/DotNet/Basic/OOP/bin/Debug/net8.0/OOP.deps.json
+/home/thanh/DEV/DotNet/Basic/OOP/bin/Debug/net8.0/OOP.runtimeconfig.json
+/home/thanh/DEV/DotNet/Basic/OOP/bin/Debug/net8.0/OOP.dll
+/home/thanh/DEV/DotNet/Basic/OOP/bin/Debug/net8.0/OOP.pdb
+/home/thanh/DEV/DotNet/Basic/OOP/obj/Debug/net8.0/OOP.GeneratedMSBuildEditorConfig.editorconfig
+/home/thanh/DEV/DotNet/Basic/OOP/obj/Debug/net8.0/OOP.AssemblyInfoInputs.cache
+/home/thanh/DEV/DotNet/Basic/OOP/obj/Debug/net8.0/OOP.AssemblyInfo.cs
+/home/thanh/DEV/DotNet/Basic/OOP/obj/Debug/net8.0/OOP.csproj.CoreCompileInputs.cache
+/home/thanh/DEV/DotNet/Basic/OOP/obj/Debug/net8.0/OOP.dll
+/home/thanh/DEV/DotNet/Basic/OOP/obj/Debug/net8.0/refint/OOP.dll
+/home/thanh/DEV/DotNet/Basic/OOP/obj/Debug/net8.0/OOP.pdb
+/home/thanh/DEV/DotNet/Basic/OOP/obj/Debug/net8.0/OOP.genruntimeconfig.cache
+/home/thanh/DEV/DotNet/Basic/OOP/obj/Debug/net8.0/ref/OOP.dll
